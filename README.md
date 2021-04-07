@@ -1,6 +1,6 @@
 
 Este script obtiene la lista de items publicados por vendedor/es en MercadoLibre,
-usa la api de ML para el site_id = "MLA" y genera un ​ archivo de LOG​ que contiene los siguientes datos de cada ítem: "​ id​ " del ítem, "​ title​ " del item, "​ category_id​ " donde está publicado, "​ name​ " de la categoría.
+usa la api de ML para el site_id = "MLA" y genera un ​ archivo de LOG​ que contiene los siguientes datos de cada ítem: "id" del ítem, "​title " del item, "​ category_id​ " donde está publicado, "​ name​ " de la categoría.
 El output del archivo se verá asi:
 
 Item_ID = MLA912271216
